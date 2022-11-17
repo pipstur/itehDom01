@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #34568B;
+}
+
+#dio_zivotinje {
+    width: 400px;
+    height: 80px;
+    margin-top: 250px;
+    margin-left: 50px;
+    border-radius: 50px;
+}
+
+.zivotinje-tabela-div {
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+#zivotinje-tabela {
+    color: white;
+    height: 100px;
+    width: 1000px;
+}
+
+#naslov-zivotinje {
+    color: white;
+    margin-top: 50px;
+    margin-left: 740px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.meni {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#zivotinje-tabela-pretraga-sort {
+    color: white;
+    width: 900px;
+    height: auto;
+}
+
+
+#input-pretraga {
+    width: 280px;
+    height: 33px;
+    margin-top: 10px;
+    margin-left: 790px;
+}
+
+
+h4 {
+    color: white;
+}
+
+#update-zivotinja {
+    width: 450px;
+    margin-top: 50px;
+    margin-left: 700px;
+}
+
+#update_button_frm {
+    margin-top: 5px;
+    width: 120px;
+
+}
